@@ -1,4 +1,4 @@
-# Ebola Outbreak Meta-Analysis (Review Paper)
+# Uganda Ebola Outbreak Meta-Analysis (Review Paper)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15564078.svg)](https://doi.org/10.5281/zenodo.15564078)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-ebola--uganda--outbreak--timeliness--cfr-blue)](https://github.com/gpaasi/ebola-uganda-outbreak-timeliness-cfr)
