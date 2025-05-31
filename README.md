@@ -155,7 +155,7 @@ Metadata for Zenodo is provided in `zenodo.json`. Once the repository is finaliz
 
 For questions, issues, or contributions, please open an issue on the GitHub repository:
 
-https://github.com/gpaasi/ebolavirus-gl-phylogeography
+https://github.com/gpaasi
 
 ---
 
