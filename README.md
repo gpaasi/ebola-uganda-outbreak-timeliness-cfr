@@ -1,5 +1,9 @@
 # Ebola Outbreak Meta-Analysis (Review Paper)
- DOI: 10.5281/zenodo.15564078
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15564078.svg)](https://doi.org/10.5281/zenodo.15564078)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-ebola--uganda--outbreak--timeliness--cfr-blue)](https://github.com/gpaasi/ebola-uganda-outbreak-timeliness-cfr)
+
+ 
 This repository contains all data extraction sheets, R scripts, and analytic outputs for the review paper:
 **"The impact of diagnostic delays and timeliness of response on Ebola disease outbreak-level case-fatality ratios in Uganda (2000–2023)."**
 
@@ -147,7 +151,7 @@ This repository is licensed under the Creative Commons Attribution 4.0 Internati
 Metadata for Zenodo is provided in `zenodo.json`. Once the repository is finalized:
 1. Zip the repository or link directly to GitHub.
 2. Submit to Zenodo using the `zenodo.json` metadata.
-3. Ensure DOI `10.5281/zenodo.15537213` is minted and matches.
+3. Ensure DOI: 10.5281/zenodo.15564078 is minted and matches.
 
 ---
 
@@ -156,6 +160,6 @@ Metadata for Zenodo is provided in `zenodo.json`. Once the repository is finaliz
 For questions, issues, or contributions, please open an issue on the GitHub repository:
 
 https://github.com/gpaasi
- DOI: 10.5281/zenodo.15564078
+ 
 ---
 
