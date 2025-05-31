@@ -1,0 +1,11 @@
+{
+  "title": "Ebola Outbreak Meta-Analysis Data and Code",
+  "upload_type": "software",
+  "description": "This deposition includes data extraction sheets, R scripts, and analytic outputs for the systematic review and meta-analysis on the impact of diagnostic delays on Ebola case-fatality in Uganda (2000-2023).",
+  "creators": [
+    {"name": "Paasi, George", "orcid": "0000-0001-6360-0589"},
+    {"name": "Okwware, Sam"},
+    {"name": "Olupot-Olupot, Peter"}
+  ],
+  "license": "CC-BY-4.0"
+}

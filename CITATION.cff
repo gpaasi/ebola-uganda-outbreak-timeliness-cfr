@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository for your research, please cite it as below."
+title: "Ebola Outbreak Meta-Analysis Data and Code"
+version: "1.0.0"
+doi: "10.5281/zenodo.15537213"
+authors:
+  - family-names: "Paasi"
+    given-names: "George"
+    orcid: "0000-0001-6360-0589"
+  - family-names: "Okwware"
+    given-names: "Sam"
+  - family-names: "Olupot-Olupot"
+    given-names: "Peter"
+repository-code: "https://github.com/gpaasi/ebolavirus-gl-phylogeography"
+license: "CC-BY-4.0"
