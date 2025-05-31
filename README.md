@@ -1,5 +1,5 @@
 # Ebola Outbreak Meta-Analysis (Review Paper)
-
+ DOI: 10.5281/zenodo.15564078
 This repository contains all data extraction sheets, R scripts, and analytic outputs for the review paper:
 **"The impact of diagnostic delays and timeliness of response on Ebola disease outbreak-level case-fatality ratios in Uganda (2000–2023)."**
 
@@ -156,6 +156,6 @@ Metadata for Zenodo is provided in `zenodo.json`. Once the repository is finaliz
 For questions, issues, or contributions, please open an issue on the GitHub repository:
 
 https://github.com/gpaasi
-
+ DOI: 10.5281/zenodo.15564078
 ---
 
